@@ -1,0 +1,16 @@
+.image{
+    height: 100%;
+    width: 100%;
+}
+#image{
+    width: 260px;
+    height: 170px;
+}
+.main-header{
+    padding-top: 105px;
+}
+.subcribe{
+    background-image: url("https://tuhoc.cc/duan/duan4/img/subscribe.jpg");
+    background-size: cover;
+    background-position: center;
+}
